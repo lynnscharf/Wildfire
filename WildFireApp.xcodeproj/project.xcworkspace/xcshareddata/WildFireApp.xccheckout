@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1D3053D-D987-4D4A-AFC1-7FC9AA36BE28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WildFireApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6499C97456DECF0BB62CA5D3147CE4B248091F75</key>
+		<string>https://bitbucket.org/DevSherif/wildfireapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WildFireApp/WildFireApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6499C97456DECF0BB62CA5D3147CE4B248091F75</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/DevSherif/wildfireapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6499C97456DECF0BB62CA5D3147CE4B248091F75</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6499C97456DECF0BB62CA5D3147CE4B248091F75</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_SourceCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
